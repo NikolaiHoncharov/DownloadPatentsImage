@@ -6,3 +6,13 @@ C:\Users\Nikc\Documents\Visual Studio 2015\Projects\DownloadPhoto\DownloadPhoto\
 C:\Users\Nikc\Documents\Visual Studio 2015\Projects\DownloadPhoto\DownloadPhoto\obj\Release\DownloadPhoto.csproj.GenerateResource.Cache
 C:\Users\Nikc\Documents\Visual Studio 2015\Projects\DownloadPhoto\DownloadPhoto\obj\Release\DownloadPhoto.exe
 C:\Users\Nikc\Documents\Visual Studio 2015\Projects\DownloadPhoto\DownloadPhoto\obj\Release\DownloadPhoto.pdb
+C:\Users\Николай\Documents\GitHub\DownloadPatentsImage\DownloadPhoto\DownloadPhoto\bin\Release\DownloadPhoto.exe.config
+C:\Users\Николай\Documents\GitHub\DownloadPatentsImage\DownloadPhoto\DownloadPhoto\bin\Release\DownloadPhoto.exe
+C:\Users\Николай\Documents\GitHub\DownloadPatentsImage\DownloadPhoto\DownloadPhoto\bin\Release\DownloadPhoto.pdb
+C:\Users\Николай\Documents\GitHub\DownloadPatentsImage\DownloadPhoto\DownloadPhoto\obj\Release\DownloadPhoto.csprojAssemblyReference.cache
+C:\Users\Николай\Documents\GitHub\DownloadPatentsImage\DownloadPhoto\DownloadPhoto\obj\Release\DownloadPhoto.Form1.resources
+C:\Users\Николай\Documents\GitHub\DownloadPatentsImage\DownloadPhoto\DownloadPhoto\obj\Release\DownloadPhoto.Properties.Resources.resources
+C:\Users\Николай\Documents\GitHub\DownloadPatentsImage\DownloadPhoto\DownloadPhoto\obj\Release\DownloadPhoto.csproj.GenerateResource.cache
+C:\Users\Николай\Documents\GitHub\DownloadPatentsImage\DownloadPhoto\DownloadPhoto\obj\Release\DownloadPhoto.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Documents\GitHub\DownloadPatentsImage\DownloadPhoto\DownloadPhoto\obj\Release\DownloadPhoto.exe
+C:\Users\Николай\Documents\GitHub\DownloadPatentsImage\DownloadPhoto\DownloadPhoto\obj\Release\DownloadPhoto.pdb
