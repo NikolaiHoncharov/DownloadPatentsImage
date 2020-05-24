@@ -1,0 +1,28 @@
+c:\users\nikc\documents\visual studio 2015\Projects\DownloadPhoto\DownloadPhoto\bin\Debug\DownloadPhoto.exe.config
+c:\users\nikc\documents\visual studio 2015\Projects\DownloadPhoto\DownloadPhoto\bin\Debug\DownloadPhoto.exe
+c:\users\nikc\documents\visual studio 2015\Projects\DownloadPhoto\DownloadPhoto\bin\Debug\DownloadPhoto.pdb
+c:\users\nikc\documents\visual studio 2015\Projects\DownloadPhoto\DownloadPhoto\obj\Debug\DownloadPhoto.csprojResolveAssemblyReference.cache
+c:\users\nikc\documents\visual studio 2015\Projects\DownloadPhoto\DownloadPhoto\obj\Debug\DownloadPhoto.Form1.resources
+c:\users\nikc\documents\visual studio 2015\Projects\DownloadPhoto\DownloadPhoto\obj\Debug\DownloadPhoto.Properties.Resources.resources
+c:\users\nikc\documents\visual studio 2015\Projects\DownloadPhoto\DownloadPhoto\obj\Debug\DownloadPhoto.csproj.GenerateResource.Cache
+c:\users\nikc\documents\visual studio 2015\Projects\DownloadPhoto\DownloadPhoto\obj\Debug\DownloadPhoto.exe
+c:\users\nikc\documents\visual studio 2015\Projects\DownloadPhoto\DownloadPhoto\obj\Debug\DownloadPhoto.pdb
+C:\Users\Nikc\Desktop\DownloadPhoto\DownloadPhoto\bin\Debug\DownloadPhoto.exe.config
+C:\Users\Nikc\Desktop\DownloadPhoto\DownloadPhoto\obj\Debug\DownloadPhoto.exe
+C:\Users\Nikc\Desktop\DownloadPhoto\DownloadPhoto\obj\Debug\DownloadPhoto.pdb
+C:\Users\Nikc\Desktop\DownloadPhoto\DownloadPhoto\bin\Debug\DownloadPhoto.exe
+C:\Users\Nikc\Desktop\DownloadPhoto\DownloadPhoto\bin\Debug\DownloadPhoto.pdb
+C:\Users\Nikc\Desktop\DownloadPhoto\DownloadPhoto\obj\Debug\DownloadPhoto.csprojResolveAssemblyReference.cache
+C:\Users\Nikc\Desktop\DownloadPhoto\DownloadPhoto\obj\Debug\DownloadPhoto.Form1.resources
+C:\Users\Nikc\Desktop\DownloadPhoto\DownloadPhoto\obj\Debug\DownloadPhoto.Properties.Resources.resources
+C:\Users\Nikc\Desktop\DownloadPhoto\DownloadPhoto\obj\Debug\DownloadPhoto.csproj.GenerateResource.Cache
+C:\Users\Николай\Desktop\DownloadPhoto\DownloadPhoto\bin\Debug\DownloadPhoto.exe.config
+C:\Users\Николай\Desktop\DownloadPhoto\DownloadPhoto\bin\Debug\DownloadPhoto.exe
+C:\Users\Николай\Desktop\DownloadPhoto\DownloadPhoto\bin\Debug\DownloadPhoto.pdb
+C:\Users\Николай\Desktop\DownloadPhoto\DownloadPhoto\obj\Debug\DownloadPhoto.csprojAssemblyReference.cache
+C:\Users\Николай\Desktop\DownloadPhoto\DownloadPhoto\obj\Debug\DownloadPhoto.Form1.resources
+C:\Users\Николай\Desktop\DownloadPhoto\DownloadPhoto\obj\Debug\DownloadPhoto.Properties.Resources.resources
+C:\Users\Николай\Desktop\DownloadPhoto\DownloadPhoto\obj\Debug\DownloadPhoto.csproj.GenerateResource.cache
+C:\Users\Николай\Desktop\DownloadPhoto\DownloadPhoto\obj\Debug\DownloadPhoto.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Desktop\DownloadPhoto\DownloadPhoto\obj\Debug\DownloadPhoto.exe
+C:\Users\Николай\Desktop\DownloadPhoto\DownloadPhoto\obj\Debug\DownloadPhoto.pdb

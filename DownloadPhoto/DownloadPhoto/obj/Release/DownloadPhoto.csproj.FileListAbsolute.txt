@@ -1,0 +1,8 @@
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\DownloadPhoto\DownloadPhoto\bin\Release\DownloadPhoto.exe.config
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\DownloadPhoto\DownloadPhoto\bin\Release\DownloadPhoto.exe
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\DownloadPhoto\DownloadPhoto\bin\Release\DownloadPhoto.pdb
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\DownloadPhoto\DownloadPhoto\obj\Release\DownloadPhoto.Form1.resources
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\DownloadPhoto\DownloadPhoto\obj\Release\DownloadPhoto.Properties.Resources.resources
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\DownloadPhoto\DownloadPhoto\obj\Release\DownloadPhoto.csproj.GenerateResource.Cache
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\DownloadPhoto\DownloadPhoto\obj\Release\DownloadPhoto.exe
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\DownloadPhoto\DownloadPhoto\obj\Release\DownloadPhoto.pdb
